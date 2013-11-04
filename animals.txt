@@ -2,3 +2,7 @@ chèvre
 poney
 troll
 elf
+orc
+babouin
+edwin
+buno

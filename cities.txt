@@ -1,3 +1,5 @@
 Brussels
 NY
 BCN
+DC
+SF
